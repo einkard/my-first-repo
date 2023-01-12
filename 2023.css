@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: brown;
+}   
+h1{
+    text-align: center;
+    text-decoration: solid;
+    margin-left: 20px;
+    justify-content: center;
+    border: 1px solid;
+    box-sizing: content-box;
+    margin: 10px;
+    background-color: azure;
+
+    
+*{
+
+}
